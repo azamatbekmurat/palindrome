@@ -1,0 +1,9 @@
+#result {
+  display: none;
+}
+
+#answer {
+  text-decoration: underline;
+  color: red;
+  font-style: italic;
+}
